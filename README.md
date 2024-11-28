@@ -23,7 +23,6 @@ The contract utilizes OpenZeppelin libraries for secure and standard implementat
 ### Prerequisites
 
 - **Solidity Compiler**: Version ^0.8.26
-- **Node.js and npm**
 - **Metamask**: Browser extension configured for the Avalanche network
 - **Avalanche Network Access**: Fuji Testnet or Avalanche Mainnet
 - **AVAX Tokens**: Required for gas fees during deployment and transactions
